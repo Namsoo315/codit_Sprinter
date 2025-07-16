@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05_Array/05_Array.iml" filepath="$PROJECT_DIR$/05_Array/05_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/13_Exception/13_Exception.iml" filepath="$PROJECT_DIR$/13_Exception/13_Exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/14_LambdaStream/14_LambdaStream.iml" filepath="$PROJECT_DIR$/14_LambdaStream/14_LambdaStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_LambdaStream_2/14_LambdaStream_2.iml" filepath="$PROJECT_DIR$/14_LambdaStream_2/14_LambdaStream_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/codit_Sprinter.iml" filepath="$PROJECT_DIR$/.idea/codit_Sprinter.iml" />
     </modules>
   </component>
